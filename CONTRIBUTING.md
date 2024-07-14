@@ -2,6 +2,7 @@
 
 ## Issues
 
+
 If you have a bug to report or a feature that you'd like to see, head over to
 the [issues][] section of the repository to open an issue. Some guidelines:
 
